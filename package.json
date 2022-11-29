@@ -18,12 +18,12 @@
     "html",
     "css"
   ],
-  "author": "oscar barajas <oscar@gndx.dev>",
+  "author": "White 7 <White@7>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gndx/js-portfolio/issues"
+    "url": "https://github.com/Benwhite7?tab=repositories"
   },
-  "homepage": "https://github.com/gndx/js-portfolio#readme",
+  "homepage": "https://github.com/Benwhite7/js-portfolio#readme",
   "devDependencies": {
     "@babel/core": "^7.20.2",
     "@babel/plugin-transform-runtime": "^7.19.6",
